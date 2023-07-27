@@ -1,5 +1,9 @@
 Este es el file de prueba para platzi
 
-Yo soy Gabriel Camacho y estudio DevOps
+Yo soy Gabriel Camacho Fonseca 
+
+estudio DevOps y tambien security
 
 Be a life longer learner
+
+Me gusta jugar soccer
