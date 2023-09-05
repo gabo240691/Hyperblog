@@ -10,6 +10,7 @@ Un blog increible para el [curso] (https://platzi.com/cursor/git-github/ " curso
 * Trucos del profesor
 * Creado por el Platzi team
 * Incluye ejemplos and Windows. Linux y Mac
+* Disponible para todas las edades
 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si aca NO LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
