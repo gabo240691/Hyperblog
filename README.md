@@ -9,6 +9,7 @@ Un blog increible para el [curso] (https://platzi.com/cursor/git-github/ " curso
 * El verdadero amor por las buenas praticas
 * Trucos del profesor
 * Creado por el Platzi team
+* Incluye ejemplos and Windows. Linux y Mac
 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si aca NO LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
